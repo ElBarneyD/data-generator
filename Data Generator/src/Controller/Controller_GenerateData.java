@@ -69,7 +69,7 @@ public class Controller_GenerateData {
             }
             String lastName;
             if (tabData[count] == 1){
-                //test tabModelData[count] = lastName;
+                // en test tabModelData[count] = lastName;
             }
             else if (i_choice == 12){
                 System.out.println("Selection confirmed");
